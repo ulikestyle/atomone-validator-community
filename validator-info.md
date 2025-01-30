@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  equinoxDAO | https://www.equinoxdao.xyz  | https://x.com/EquinoxDAO   | U.K.   |  https://github.com/Equinox-DAO    | wangzhaozhu1@gmail.com   | samwang_   | E8487EB3F077315C09B16DC3B64181F2E84993B8EB3986BED39F1163A4865BAF  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
